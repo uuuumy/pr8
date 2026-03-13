@@ -1,4 +1,4 @@
-txt=input()
+txt = input()
 
 balance = 0
 correct = True
